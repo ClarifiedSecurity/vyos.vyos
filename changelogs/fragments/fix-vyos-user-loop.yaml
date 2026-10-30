@@ -1,0 +1,2 @@
+bugfixes:
+  - vyos_user - fix an issue where task fails on the second item when looping over a module
